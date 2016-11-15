@@ -18,6 +18,7 @@ int main(int argc, char *argv[])
     CibPrueba ib_prueba;
 
     cout << "Resultado => " << ib_prueba.ibSuma(5,4) << endl;
+    cout << "De dentro del directorio no funciona. Comprensible!" << endl;
 
     return a.exec();
 }
