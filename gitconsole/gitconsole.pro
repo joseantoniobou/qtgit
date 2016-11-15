@@ -9,6 +9,8 @@ CONFIG -= app_bundle
 
 TEMPLATE = app
 
-SOURCES += main.cpp
+SOURCES += main.cpp \
+    utils/cibprueba.cpp
 
-HEADERS +=
+HEADERS += \
+    utils/cibprueba.h

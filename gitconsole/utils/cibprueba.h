@@ -6,6 +6,7 @@ class CibPrueba
 {
 public:
     CibPrueba();
+    int ibSuma(int a, int b);
 };
 
 #endif // CIBPRUEBA_H
